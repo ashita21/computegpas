@@ -1,0 +1,8 @@
+CS 273 A 1 James Smith F
+CS 273 A 1 Jean-Luc Picard B-
+CS 203 B 3 James Smith C-
+CS 203 B 3 Jean-Luc Picard C
+PHL 220 A 3 Ada Lovelace A
+PHL 220 A 3 Grace Hopper C
+THE 105 A 3 Grace Hopper B+
+THE 105 A 3 James Smith D+
